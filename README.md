@@ -1,16 +1,35 @@
-### Hi there 👋
 
-<!--
-**mwheeler2244/mwheeler2244** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>Hi, I'm Mike!👋  <br/><a href="https://github.com/mwheeler2244">Analyst</a>, <a href="https://www.linkedin.com/in/michael-wheeler12//">Professional</a>, <a href="https://www.youtube.com/channel/UC4ZPomiURp2k3deT8U7mxPQ">YouTuber</a></h1>
 
-Here are some ideas to get you started:
+<h2>👨‍💻 Data Analyst Projects:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>SQL, Excel, Power BI</b>
+  - [Absenteeism at Work Analyst Project](https://github.com/mwheeler2244/Absenteeism-at-work)
+
+<h2>👨‍💻 Python Projects:</h2>
+
+- <b>Harvard CS50 Intro to Python Projects/Problem Sets</b>
+  - [Pyton](https://github.com/code50/163085598/tree/main) 
+
+<h2>📃 Certifications:</h2>
+
+- <b>Project Management</b>
+  - [Google Project Management](https://www.coursera.org/account/accomplishments/professional-cert/ZMG6JGGNAFT4)
+- <b>IT Support</b>
+  - [Technical Support Fundamentals](https://www.coursera.org/account/accomplishments/verify/4QXGP4238FML)
+
+<h2>📺 Popular YouTube Videos</h2>
+
+- [Adventures in the Animal Kingdom episode 1](https://www.youtube.com/watch?v=w8tO_XDp41M&t=4s)
+- [Adventures in the Animal Kingdom episode 4](https://www.youtube.com/watch?v=ip_X3LJCXMg)
+  
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[youtube]: https://www.youtube.com/channel/UC4ZPomiURp2k3deT8U7mxPQ
+[linkedin]: https://linkedin.com/in/michael-wheeler12/
