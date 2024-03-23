@@ -13,12 +13,12 @@
 
 <h2>📃 Certifications:</h2>
 
-- <b>Project Management</b>
-  - [Google Project Management](https://www.coursera.org/account/accomplishments/professional-cert/ZMG6JGGNAFT4)
-- <b>IT Support</b>
+- <b>Google Project Management Professional Certificate</b>
+  - [Project Management](https://www.coursera.org/account/accomplishments/professional-cert/ZMG6JGGNAFT4)
+- <b>Google IT Support Professional Certificate</b>
   - [Technical Support Fundamentals](https://www.coursera.org/account/accomplishments/verify/4QXGP4238FML)
-- <b>IBM Databases and SQL for Data Science with Python<b>
-  - [IBM Data Science](https://www.coursera.org/account/accomplishments/verify/6M6UR6RCSTQZ)
+- <b>IBM Data Analyst Professional Certificate<b>
+  - [IBM Databases and SQL for Data Science with Python](https://www.coursera.org/account/accomplishments/verify/6M6UR6RCSTQZ)
 
 <h2>📺 Popular YouTube Videos</h2>
 
