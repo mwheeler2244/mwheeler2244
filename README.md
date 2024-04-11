@@ -9,7 +9,9 @@
 <h2>👨‍💻 Python Projects:</h2>
 
 - <b>Harvard CS50 Intro to Python Projects/Problem Sets</b>
-  - [Pyton](https://github.com/code50/163085598/tree/main) 
+  - [Pyton](https://github.com/code50/163085598/tree/main)
+- <b> Python Food Games</b>
+  - [Python](https://github.com/mwheeler2244/Food-Game)
 
 <h2>📃 Certifications:</h2>
 
