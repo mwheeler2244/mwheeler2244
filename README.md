@@ -29,7 +29,12 @@
   
 
 <h2> 🤳 Connect with me:</h2>
+
+
+
   
-<a href="https://www.linkedin.com/in/michael-wheeler12/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/michael-wheeler12/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width="22px" alt="LinkedIn Logo">
+    LinkedIn</a>
   
 
