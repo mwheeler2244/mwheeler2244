@@ -1,17 +1,8 @@
 
-  <h1>Hello, I'm Mike!👋  <br/><a href="https://github.com/mwheeler2244">Web Developer</a>, <a href="https://www.linkedin.com/in/michael-wheeler12//"></h1>
+  <h1>Hello, I'm Mike!👋  <br/><a href="https://github.com/mwheeler2244">Web Developer</a> <a href="https://www.linkedin.com/in/michael-wheeler12//"></h1>
 
-<h2>👨‍💻 Data Analyst Projects:</h2>
 
-- <b>SQL, Excel, Power BI</b>
-  - [Absenteeism at Work Analyst Project](https://github.com/mwheeler2244/Absenteeism-at-work)
 
-<h2>👨‍💻 Python Projects:</h2>
-
-- <b>Harvard CS50 Intro to Python Projects/Problem Sets</b>
-  - [Python](https://github.com/code50/163085598/tree/main)
-- <b> Python Food Game</b>
-  - [Python](https://github.com/mwheeler2244/Food-Game)
 
 <h2>📃 Certifications:</h2>
 
