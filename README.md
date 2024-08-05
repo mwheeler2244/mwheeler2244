@@ -6,7 +6,7 @@
 
 <h2>📃 Certifications:</h2>
 
-- <b>FreeCodeCamp Responsive Web Design<b>
+- <b>Free Code Camp Responsive Web Design Certificate</b>
   -[Respopnsive Web Design] (https://www.freecodecamp.org/certification/fcceaf2f614-f472-4103-87b6-ed1e94486f3f/responsive-web-design)
 
 - <b>Google Project Management Professional Certificate</b>
