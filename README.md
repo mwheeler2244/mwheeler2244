@@ -6,8 +6,8 @@
 
 <h2>📃 Certifications:</h2>
 
-- <b>Free Code Camp Responsive Web Design Certificate</b>
-  -[Respopnsive Web Design] (https://www.freecodecamp.org/certification/fcceaf2f614-f472-4103-87b6-ed1e94486f3f/responsive-web-design)
+- <b>Free Code Camp Certificate</b>
+   - [Responsive Web Desgin](https://www.freecodecamp.org/certification/fcceaf2f614-f472-4103-87b6-ed1e94486f3f/responsive-web-design)
 
 - <b>Google Project Management Professional Certificate</b>
   - [Project Management](https://www.coursera.org/account/accomplishments/professional-cert/ZMG6JGGNAFT4)
