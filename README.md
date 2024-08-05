@@ -6,6 +6,9 @@
 
 <h2>📃 Certifications:</h2>
 
+- <b>FreeCodeCamp Responsive Web Design<b>
+  -https://www.freecodecamp.org/certification/fcceaf2f614-f472-4103-87b6-ed1e94486f3f/responsive-web-design
+
 - <b>Google Project Management Professional Certificate</b>
   - [Project Management](https://www.coursera.org/account/accomplishments/professional-cert/ZMG6JGGNAFT4)
 - <b>Google IT Support Professional Certificate</b>
