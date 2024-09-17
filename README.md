@@ -31,8 +31,9 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width="22px" alt="LinkedIn Logo">
     LinkedIn</a>
 
-  <a href="https://https://x.com/Michael68374214">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/X_logo_2023.svg/768px-X_logo_2023.svg.png" alt="X (Twitter) Logo">
+ <a href="https://x.com/Michael68374214" target="_blank">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/X_logo_2023.svg/768px-X_logo_2023.svg.png" alt="X (Twitter) Logo" width="20" height="20">
+   X
+</a>
 
-    X</a>
 
