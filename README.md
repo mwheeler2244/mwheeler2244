@@ -32,7 +32,8 @@
     LinkedIn</a>
 
  <a href="https://x.com/Michael68374214" target="_blank">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/X_logo_2023.svg/768px-X_logo_2023.svg.png" alt="X (Twitter) Logo" width="20" height="20">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/X_logo_2023.svg" alt="X (Twitter) Logo" width="20" height="20">
+
    X
 </a>
 
