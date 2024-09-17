@@ -33,7 +33,7 @@
 
 <a href="https://x.com/Michael68374214" target="_blank">
   <img src="./11053970_x_logo_twitter_new_brand_icon.png" alt="X (Twitter) Logo" width="20" height="20">
-  X
+  Twitter
 </a>
 
 
