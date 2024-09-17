@@ -1,4 +1,4 @@
-![Banner Image](githubprofile.jpg)
+![Banner Image](gitnew.jpg)
   <h1>Hello, I'm Mike!👋  <br/><a href="https://github.com/mwheeler2244">Web Developer</a> <a href="https://www.linkedin.com/in/michael-wheeler12//"></h1>
 
 
