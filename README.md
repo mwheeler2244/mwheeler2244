@@ -1,4 +1,4 @@
-![Banner Image](Leonardo_Phoenix_An_open_laptop_placed_on_a_modern_desk_with_t_2.jpg)
+![Banner Image](herolaptop.jpg)
   <h1>Hello, I'm Mike!👋  <br/><a href="https://github.com/mwheeler2244">Web Developer</a> <a href="https://www.linkedin.com/in/michael-wheeler12//"></h1>
 
 
