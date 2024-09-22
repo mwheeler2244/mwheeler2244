@@ -2,6 +2,9 @@
   <h1>Hello, I'm Mike!👋  <br/><a href="https://github.com/mwheeler2244">Web Developer</a> <a href="https://www.linkedin.com/in/michael-wheeler12//"></h1>
 
 ## My Latest Blog Site
+### Muay Thai in Phuket
+A blog dedicated to sharing tips, experiences, and insights about training Muay Thai in beautiful Phuket, Thailand.
+
 
 [![My Latest Blog](https://github.com/mwheeler2244/mwheeler2244/blob/main/muaythaiphuket.png?raw=true)](https://muaythaiinphuket.com)
 
