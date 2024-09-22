@@ -1,7 +1,9 @@
 ![Banner Image](hero2.jpg)
   <h1>Hello, I'm Mike!👋  <br/><a href="https://github.com/mwheeler2244">Web Developer</a> <a href="https://www.linkedin.com/in/michael-wheeler12//"></h1>
 
+## My Latest Blog Site
 
+[![My Latest Blog](URL_TO_YOUR_THUMBNAIL_IMAGE)](https://muaythaiinphuket.com)
 
 
 <h2>📃 Certifications:</h2>
