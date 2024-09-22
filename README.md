@@ -3,7 +3,7 @@
 
 ## My Latest Blog Site
 
-[![My Latest Blog](https://github.com/mwheeler2244/mwheeler2244/blob/main/mtp.png?raw=true)](https://muaythaiinphuket.com)
+[![My Latest Blog](https://github.com/mwheeler2244/mwheeler2244/blob/main/muaythaiphuket.png?raw=true)](https://muaythaiinphuket.com)
 
 
 
