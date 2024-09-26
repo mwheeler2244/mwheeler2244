@@ -1,13 +1,20 @@
 ![Banner Image](hero2.jpg)
   <h1>Hello, I'm Mike!👋  <br/><a href="https://github.com/mwheeler2244">Web Developer</a> <a href="https://www.linkedin.com/in/michael-wheeler12//"></h1>
 
-## 🖋️ My Latest Blog Site
+## 🖋️ My Latest Travel Site
 
 > ### Muay Thai in Phuket
 > A blog dedicated to sharing tips, experiences, and insights about training Muay Thai in beautiful Phuket, Thailand.
 >
 > [![My Latest Blog](https://github.com/mwheeler2244/mwheeler2244/blob/main/muaythaiphuket.png?raw=true)](https://muaythaiinphuket.com)
 
+
+## 🖋️ My Latest Code Blog 
+
+> ### Exploring CSS with Kevin Powell – The Best CSS Instructor on YouTube?
+> A blog dedicated to sharing learning tips for front end devlopement
+>
+> [![My Latest Blog](https://github.com/mwheeler2244/mwheeler2244/blob/main/muaythaiphuket.png?raw=true)](https://mikewheelerdev.com/blog/day1CSS.html)
   
 
 
