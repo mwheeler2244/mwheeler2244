@@ -14,7 +14,7 @@
 > ### Exploring CSS with Kevin Powell – The Best CSS Instructor on YouTube?
 > A blog dedicated to sharing learning tips for front end devlopement
 >
-> [![My Latest Blog](https://github.com/mwheeler2244/mwheeler2244/blob/main/cssblog1-thumbnail.jpg?raw=true)](https://mikewheelerdev.com/blog/day1CSS.html)
+> [![My Latest Blog](https://github.com/mwheeler2244/mwheeler2244/blob/main/cssblogkevin-thumbnail - Copy.jpg?raw=true)](https://mikewheelerdev.com/blog/day1CSS.html)
   
 
 
