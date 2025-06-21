@@ -6,7 +6,8 @@
 > ### Camping Blog
 > A blog dedicated to exploring national parks in the US.
 >
-> [![My Latest Blog](campss.png)(https://github.com/mwheeler2244/Camping-Blog.git)
+[![My Latest Blog](https://github.com/mwheeler2244/mwheeler2244/blob/main/campss.png?raw=true)](https://github.com/mwheeler2244/Camping-Blog.git)
+
 
 
 > ### Muay Thai in Phuket
