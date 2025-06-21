@@ -3,11 +3,11 @@
 
 ## 🖋️ My Latest Travel Sites
 
-> ### Camping Blog
-> A blog dedicated to exploring national parks in the US.
->
-[![My Latest Blog](https://github.com/mwheeler2244/mwheeler2244/blob/main/campss.png?raw=true)](https://github.com/mwheeler2244/Camping-Blog.git)
-
+<h3>Camping Blog</h3>
+<p>A blog dedicated to exploring national parks in the US.</p>
+<a href="https://github.com/mwheeler2244/Camping-Blog.git">
+  <img src="https://github.com/mwheeler2244/mwheeler2244/blob/main/campss.png?raw=true" alt="Camping Blog Screenshot" width="400">
+</a>
 
 
 > ### Muay Thai in Phuket
