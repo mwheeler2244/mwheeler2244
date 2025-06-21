@@ -1,7 +1,13 @@
 ![Banner Image](bh.avif)
   <h1>Hello, I'm Mike!👋  <br/><a href="https://github.com/mwheeler2244">Software Developer</a> <a href="https://www.linkedin.com/in/michael-wheeler12//"></h1>
 
-## 🖋️ My Latest Travel Site
+## 🖋️ My Latest Travel Sites
+
+> ### Camping Blog
+> A blog dedicated to exploring national parks in the US.
+>
+> [![My Latest Blog]([https://github.com/mwheeler2244/mwheeler2244/blob/main/muaythaiphuket.png?raw=true](https://github.com/mwheeler2244/Camping-Blog.git))]
+
 
 > ### Muay Thai in Phuket
 > A blog dedicated to sharing tips, experiences, and insights about training Muay Thai in beautiful Phuket, Thailand.
