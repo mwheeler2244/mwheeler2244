@@ -12,7 +12,7 @@
 <h3>Muay Thai in Phuket</h3>
 <p>A blog dedicated to sharing tips, experiences, and insights about training Muay Thai in beautiful Phuket, Thailand.</p>
 <a href="https://muaythaiinphuket.com">
-  <img src="https://github.com/mwheeler2244/mwheeler2244/blob/main/muaythaiphuket.png?raw=true" alt="Muay Thai Blog Screenshot" width="400">
+  <img src="mtss.png" alt="Muay Thai Blog Screenshot" width="400">
 </a>
 
 <h3>Exploring CSS with Kevin Powell – The Best CSS Instructor on YouTube?</h3>
