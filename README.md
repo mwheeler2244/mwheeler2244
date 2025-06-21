@@ -9,20 +9,18 @@
   <img src="https://github.com/mwheeler2244/mwheeler2244/blob/main/campss.png?raw=true" alt="Camping Blog Screenshot" width="400">
 </a>
 
+<h3>Muay Thai in Phuket</h3>
+<p>A blog dedicated to sharing tips, experiences, and insights about training Muay Thai in beautiful Phuket, Thailand.</p>
+<a href="https://muaythaiinphuket.com">
+  <img src="https://github.com/mwheeler2244/mwheeler2244/blob/main/muaythaiphuket.png?raw=true" alt="Muay Thai Blog Screenshot" width="400">
+</a>
 
-> ### Muay Thai in Phuket
-> A blog dedicated to sharing tips, experiences, and insights about training Muay Thai in beautiful Phuket, Thailand.
->
-> [![My Latest Blog](https://github.com/mwheeler2244/mwheeler2244/blob/main/muaythaiphuket.png?raw=true)](https://muaythaiinphuket.com)
+<h3>Exploring CSS with Kevin Powell – The Best CSS Instructor on YouTube?</h3>
+<p>A blog about sharing learning tips for front end development.</p>
+<a href="https://mikewheelerdev.com/blog/day1CSS.html">
+  <img src="https://github.com/mwheeler2244/mwheeler2244/blob/main/cssblogkevin.jpg?raw=true" alt="CSS Blog Screenshot" width="400">
+</a>
 
-
-## 🖋️ My Latest Code Blog 
-
-> ### Exploring CSS with Kevin Powell – The Best CSS Instructor on YouTube?
-> A blog about sharing learning tips for front end devlopement
->
->  [![My Latest Blog](https://github.com/mwheeler2244/mwheeler2244/blob/main/cssblogkevin.jpg?raw=true)](https://mikewheelerdev.com/blog/day1CSS.html)
-  
 
 
 <h2>📃 Certifications:</h2>
