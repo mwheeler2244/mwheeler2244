@@ -15,11 +15,6 @@
   <img src="mtss.png" alt="Muay Thai Blog Screenshot" width="400">
 </a>
 
-<h3>Exploring CSS with Kevin Powell – The Best CSS Instructor on YouTube?</h3>
-<p>A blog about sharing learning tips for front end development.</p>
-<a href="https://mikewheelerdev.com/blog/day1CSS.html">
-  <img src="https://github.com/mwheeler2244/mwheeler2244/blob/main/cssblogkevin.jpg?raw=true" alt="CSS Blog Screenshot" width="400">
-</a>
 
 
 
