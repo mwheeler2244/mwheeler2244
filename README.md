@@ -12,7 +12,7 @@
 <h3>Networx (LinkedIn Clone)</h3>
 <p>A modern LinkedIn-style social networking platform built with Next.js, React, and Tailwind CSS.</p>
 <a href="https://networx-demo.vercel.app">
-  <img src="networx-screenshot.png" alt="Networx App Screenshot" width="400">
+  <img src="networxss.png" alt="Networx App Screenshot" width="400">
 </a>
 
 <h3>Muay Thai in Phuket</h3>
