@@ -1,12 +1,18 @@
 ![Banner Image](bh.avif)
   <h1>Hello, I'm Mike!👋  <br/><a href="https://github.com/mwheeler2244">Software Developer</a> <a href="https://www.linkedin.com/in/michael-wheeler12//"></h1>
 
-## 🖋️ My Latest Travel Sites
+## 🖋️ My Latest Work
 
 <h3>Camping Blog</h3>
 <p>A blog dedicated to exploring national parks in the US.</p>
 <a href="https://github.com/mwheeler2244/Camping-Blog.git">
   <img src="https://github.com/mwheeler2244/mwheeler2244/blob/main/campss.png?raw=true" alt="Camping Blog Screenshot" width="400">
+</a>
+
+<h3>Networx (LinkedIn Clone)</h3>
+<p>A modern LinkedIn-style social networking platform built with Next.js, React, and Tailwind CSS.</p>
+<a href="https://networx-demo.vercel.app">
+  <img src="networx-screenshot.png" alt="Networx App Screenshot" width="400">
 </a>
 
 <h3>Muay Thai in Phuket</h3>
