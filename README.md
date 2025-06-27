@@ -1,4 +1,3 @@
-[![Banner Image](bh.avif)](url)
   <h1>Hello, I'm Mike!👋  <br/><a href="https://github.com/mwheeler2244">Software Developer</a> <a href="https://www.linkedin.com/in/michael-wheeler12//"></h1>
 
 ## 🖋️ My Latest Work
